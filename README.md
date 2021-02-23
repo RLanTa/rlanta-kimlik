@@ -13,4 +13,4 @@ Kurulum :
 Gereklilikler : 
 
 - mythic_notify
-- es_extenden jsfour-idcard
+- es_extended jsfour-idcard
